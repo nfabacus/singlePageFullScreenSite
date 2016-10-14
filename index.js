@@ -1,1 +1,3 @@
-# Single Page Full Screen Site
+$(document).ready(function() {
+    $('#fullpage').fullpage();
+});
